@@ -1,0 +1,6 @@
+name: abe-upstream
+recipe: pantheon
+config:
+  framework: drupal8
+  site: abe-upstream
+  id: b9d599f5-26cb-419c-834a-7ef6c273d248
